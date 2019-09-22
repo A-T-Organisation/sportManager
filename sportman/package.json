@@ -2,7 +2,7 @@
   "name": "sportman",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://A-T-Organisation.github.io/sportManager",
+  "homepage": "http://A-T-Organisation.github.io/sportManager",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -28,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^9.1.4"
   }
 }
