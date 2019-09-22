@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sportManager/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sportManager/static/js/main.1489be8a.chunk.js",
+    "main.js.map": "/sportManager/static/js/main.1489be8a.chunk.js.map",
+    "runtime~main.js": "/sportManager/static/js/runtime~main.8bd108bb.js",
+    "runtime~main.js.map": "/sportManager/static/js/runtime~main.8bd108bb.js.map",
+    "static/js/2.9dfdd2af.chunk.js": "/sportManager/static/js/2.9dfdd2af.chunk.js",
+    "static/js/2.9dfdd2af.chunk.js.map": "/sportManager/static/js/2.9dfdd2af.chunk.js.map",
+    "index.html": "/sportManager/index.html",
+    "precache-manifest.73982dbb788051337842a7d3e8172a02.js": "/sportManager/precache-manifest.73982dbb788051337842a7d3e8172a02.js",
+    "service-worker.js": "/sportManager/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sportManager/static/css/main.2cce8147.chunk.css.map"
+  }
+}
